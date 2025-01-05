@@ -6,3 +6,7 @@
 first test
 python.adding
 Haritha adding text
+
+
+
+Adding data to pull the code using `git pull`
